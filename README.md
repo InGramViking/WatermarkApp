@@ -38,7 +38,7 @@
 
 ## 🖥️ 系统要求
 
-- macOS 10.15+
+- macOS 12+
 - 约 5MB 磁盘空间
 
 ## 🛠️ 构建
@@ -58,7 +58,7 @@ make clean
 
 ```bash
 git clone <repo-url>
-cd watermark
+cd WatermarkApp
 make run
 ```
 
